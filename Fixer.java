@@ -118,16 +118,5 @@ public class Fixer {
    
    return address.substring(a.lastIndexOf(",")+2);
    }
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-   
-
+ 
 } // END CLASS
